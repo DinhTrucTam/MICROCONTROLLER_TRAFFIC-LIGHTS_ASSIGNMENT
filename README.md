@@ -16,4 +16,4 @@ There are 2 files: a coding file (main.zip) and a .txt file containing the link 
   + After successfully connected, send '0' to the board and wait 5 seconds to run the system in NORMAL mode.
   + If users want to change the Green lights time, send '2' to the board and send any number users want the Green lights to run.
   + If users want to change the Yellow lights time, send '3' to the board and send any number users want the Yellow lights to run.
-  + After successfully adjusted, press 0 again to run the system with updated time.
+  + After successfully adjusted, send '0' to the board again to run the system with updated time.
